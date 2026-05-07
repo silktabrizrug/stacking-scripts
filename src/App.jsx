@@ -383,7 +383,7 @@ function AboutPanel({ onClose }) {
 }
 
 export default function App() {
-  const [current, setCurrent] = useState(9)
+  const [current, setCurrent] = useState(0)
   const [aboutOpen, setAboutOpen] = useState(true)
   const isAnimating = useRef(false)
   const filmstripRef = useRef(null)
