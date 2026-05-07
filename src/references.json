@@ -1,0 +1,1586 @@
+{
+  "abidPersistentAntiMuslimBias2021": {
+    "type": "misc",
+    "key": "abidPersistentAntiMuslimBias2021",
+    "title": "Persistent Anti-Muslim Bias",
+    "author": "Abid, Abubakar and Farooqi, Maheen and Zou, James",
+    "date": "2025-10-10",
+    "publisher": "arXiv",
+    "doi": "10.48550/arXiv.2101.05783",
+    "abstract": "It has been observed that large-scale language models capture undesirable societal biases, e.g. relating to race and gender; yet religious bias has been relatively unexplored. We demonstrate that GPT-3, a state-of-the-art contextual language model, captures persistent Muslim-violence bias. We probe ...",
+    "year": "2025",
+    "url": "https://doi.org/10.48550/arXiv.2101.05783"
+  },
+  "agarwalAISuggestionsHomogenize2025": {
+    "type": "inproceedings",
+    "key": "agarwalAISuggestionsHomogenize2025",
+    "title": "AI Suggestions Homogenize Writing Toward Western Styles",
+    "author": "Agarwal, Dhruv and Naaman, Mor and Vashistha, Aditya",
+    "date": "2025-10-08",
+    "booktitle": "Proceedings of the 2025 CHI Conference",
+    "publisher": "Association for Computing Machinery",
+    "doi": "10.1145/3706598.3713564",
+    "abstract": "Large language models (LLMs) are being increasingly integrated into everyday products and services, such as coding tools and writing assistants. As these embedded AI applications are deployed globally, there is a growing concern that the AI models underlying these applications prioritize Western val...",
+    "pages": "1--21",
+    "year": "2025",
+    "url": "https://doi.org/10.1145/3706598.3713564"
+  },
+  "AIGovernanceEnglish": {
+    "type": "misc",
+    "key": "AIGovernanceEnglish",
+    "title": "AI Governance Beyond English",
+    "date": "2026-02-03",
+    "journal": "Humane Intelligence",
+    "abstract": "This is a guest blog authored by Humane Intelligence volunteers, exploring topics related to AI [\\dots ]",
+    "year": "2026"
+  },
+  "AILiteracyPart": {
+    "type": "misc",
+    "key": "AILiteracyPart",
+    "title": "AI Literacy Part",
+    "date": "2026-02-25",
+    "journal": "Teachlab",
+    "abstract": "Schools and teachers are being directed to teach and learn \"AI Literacy\" but do we know enough to do that responsibly?",
+    "year": "2026"
+  },
+  "AlgorithmicDisplacementSocial": {
+    "type": "misc",
+    "key": "AlgorithmicDisplacementSocial",
+    "title": "Algorithmic Displacement",
+    "date": "2025-10-09",
+    "journal": "Knight First Amendment Institute",
+    "year": "2025"
+  },
+  "aliBriefIntroductionDecolonial2016": {
+    "type": "article",
+    "key": "aliBriefIntroductionDecolonial2016",
+    "title": "A Brief Introduction to Decolonial Computing",
+    "author": "Ali, Syed Mustafa",
+    "date": "2025-10-10",
+    "journal": "XRDS",
+    "doi": "10.1145/2930886",
+    "abstract": "Does computing need to be decolonized, and if so, how should such decolonization be effected? This short essay introduces a recent proposal at the fringes of computing, which attempts to engage these and other related questions.",
+    "pages": "16--21",
+    "volume": "22",
+    "year": "2025",
+    "url": "https://doi.org/10.1145/2930886"
+  },
+  "aroraNextBillionUsers2019": {
+    "type": "article",
+    "key": "aroraNextBillionUsers2019",
+    "title": "The Next Billion Users",
+    "author": "Arora, Payal",
+    "date": "2025-11-14",
+    "journal": "Harvard University Press",
+    "abstract": "New-media pundits obsess over online privacy and security, cyberbullying, and revenge porn, but do these things really matter in most of the world? The Next Billion Users reveals that many assumptions about internet use in developing countries are",
+    "year": "2025"
+  },
+  "belliAIGigWorkers2025": {
+    "type": "misc",
+    "key": "belliAIGigWorkers2025",
+    "title": "AI",
+    "author": "Belli, Luca",
+    "date": "2026-02-06",
+    "journal": "Tech Policy Press",
+    "abstract": "Luca Belli argues that tech elites have embraced authoritarianism, using AI to suppress workers, reshape democracy, and expand corporate power.",
+    "year": "2026"
+  },
+  "BuildingAILiteracy2026": {
+    "type": "misc",
+    "key": "BuildingAILiteracy2026",
+    "title": "Building AI",
+    "date": "2026-03-27",
+    "abstract": "Teach practical AI literacy for students with these activities requiring zero tech. Start tomorrow with pattern games, sorting exercises, and lessons.",
+    "year": "2026"
+  },
+  "CalculatingEmpiresGenealogy": {
+    "type": "misc",
+    "key": "CalculatingEmpiresGenealogy",
+    "title": "Calculating Empires",
+    "date": "2026-04-06",
+    "abstract": "Explore how technical and social structures co-evolved over five centuries in this large-scale research visualization.",
+    "year": "2026"
+  },
+  "CalculatingPowersInterview": {
+    "type": "misc",
+    "key": "CalculatingPowersInterview",
+    "title": "Calculating and Powers",
+    "date": "2026-04-06",
+    "abstract": "It is urgent today to look at AI for what it is: a system based on chains of resource exploitation that are not always transparent",
+    "year": "2026"
+  },
+  "cohenOligarchyStateCryptopia2025": {
+    "type": "misc",
+    "key": "cohenOligarchyStateCryptopia2025",
+    "title": "Oligarchy, State",
+    "author": "Cohen, Julie E.",
+    "date": "2026-02-06",
+    "publisher": "Social Science Research Network",
+    "doi": "10.2139/ssrn.5171050",
+    "abstract": "Theoretical accounts of power in networked digital environments typically do not give systematic attention to the phenomenon of oligarchy---to extreme concentrations of material wealth deployed to obtain and protect durable personal advantage. The biggest technology platform companies are dominated ...",
+    "year": "2026",
+    "url": "https://doi.org/10.2139/ssrn.5171050"
+  },
+  "cohesionAICooperationTest2026": {
+    "type": "misc",
+    "key": "cohesionAICooperationTest2026",
+    "title": "The AI Cooperation Test",
+    "author": "Cohesion, Tech and Social",
+    "date": "2026-02-12",
+    "journal": "Tech and Social Cohesion",
+    "abstract": "Four thought leaders examine how AI design is reshaping trust, relationships, and our capacity to cooperate.",
+    "year": "2026"
+  },
+  "CostsConnectionStanford2019": {
+    "type": "book",
+    "key": "CostsConnectionStanford2019",
+    "title": "The Costs",
+    "date": "2026-03-06",
+    "abstract": "Just about any social need is now met with an opportunity to \"connect\" through digital means. But this convenience is not free---it is purchased with vast amounts of personal data transferred through shadowy backchannels to corporations using it to generate profit. The Costs of Connection uncovers t...",
+    "year": "2026"
+  },
+  "crawfordAtlasAIPower2021": {
+    "type": "book",
+    "key": "crawfordAtlasAIPower2021",
+    "title": "The Atlas",
+    "author": "Crawford, Kate",
+    "date": "2026-03-06",
+    "publisher": "Yale University Press",
+    "doi": "10.2307/j.ctv1ghv45t",
+    "abstract": "$<$strong$>$The hidden costs of artificial intelligence, from natural resources and labor to privacy and freedom$<$/strong$>$ What happens when artificial intelligence saturates political life and depletes the planet? How is AI shaping our understanding of ourselves and our societies? In this book K...",
+    "year": "2026",
+    "url": "https://doi.org/10.2307/j.ctv1ghv45t"
+  },
+  "DataAlgorithmsWork": {
+    "type": "misc",
+    "key": "DataAlgorithmsWork",
+    "title": "Data and Algorithms",
+    "date": "2026-02-06",
+    "journal": "UC Berkeley Labor Center",
+    "abstract": "A new report provides a comprehensive set of policy principles for worker technology rights in the United States.",
+    "year": "2026"
+  },
+  "DataColonialismAccumulation": {
+    "type": "misc",
+    "key": "DataColonialismAccumulation",
+    "title": "Data Colonialism through Accumulation by Dispossession: New",
+    "date": "2025-10-30",
+    "year": "2025"
+  },
+  "DigitalCommoningAlternative": {
+    "type": "misc",
+    "key": "DigitalCommoningAlternative",
+    "title": "Digital Commoning",
+    "date": "2026-02-08",
+    "abstract": "The conceptualisation of OpenStreetMap as digital commoning draws attention to the rules that enable an alternative form of geospatial data production.",
+    "year": "2026"
+  },
+  "dignazioshe/ellaWhatTechnofascism2026": {
+    "type": "misc",
+    "key": "dignazioshe/ellaWhatTechnofascism2026",
+    "title": "What Is Technofascism",
+    "author": "D'Ignazio (she/ella), Catherine",
+    "date": "2026-02-13",
+    "journal": "Data + Feminism Lab, MIT",
+    "abstract": "I'm on sabbatical this spring and was studiously avoiding starting any new projects. But the siege of Minneapolis, the killings of Ren\\'ee\\dots",
+    "year": "2026"
+  },
+  "dosunmuGoogleBacksAfrican2026": {
+    "type": "misc",
+    "key": "dosunmuGoogleBacksAfrican2026",
+    "title": "Google Backs African",
+    "author": "Dosunmu, Damilare",
+    "date": "2026-02-12",
+    "journal": "Rest of World",
+    "abstract": "A new 21-language data set gives African institutions ownership and control in a field long dominated by Big Tech.",
+    "year": "2026"
+  },
+  "dunneHertzianTalesElectronic2008": {
+    "type": "book",
+    "key": "dunneHertzianTalesElectronic2008",
+    "title": "Hertzian Tales",
+    "author": "Dunne, Anthony",
+    "publisher": "MIT Press",
+    "abstract": "How design can improve the quality of our everyday lives by engaging the invisible electromagnetic environment in which we live."
+  },
+  "dziezaAIFactory2023": {
+    "type": "misc",
+    "key": "dziezaAIFactory2023",
+    "title": "Inside the AI Factory",
+    "author": "Dzieza, Josh",
+    "date": "2026-04-06",
+    "journal": "The Verge",
+    "abstract": "How many humans does it take to make tech seem human? Millions.",
+    "year": "2026"
+  },
+  "ensmengerCloudFactory2021": {
+    "type": "incollection",
+    "key": "ensmengerCloudFactory2021",
+    "title": "The Cloud Is",
+    "author": "Ensmenger, Nathan",
+    "date": "2026-03-06",
+    "booktitle": "Your Computer Is",
+    "publisher": "The MIT Press",
+    "doi": "10.7551/mitpress/10993.003.0005",
+    "pages": "0",
+    "year": "2026",
+    "url": "https://doi.org/10.7551/mitpress/10993.003.0005"
+  },
+  "espin-noboaInequalityInequityNetworkbased2022": {
+    "type": "article",
+    "key": "espin-noboaInequalityInequityNetworkbased2022",
+    "title": "Inequality and Inequity in Network-Based Ranking and Recommendation Algorithms",
+    "author": "Esp\\'in-Noboa",
+    "date": "2026-03-10",
+    "journal": "Scientific Reports",
+    "publisher": "Nature Publishing Group",
+    "doi": "10.1038/s41598-022-05434-1",
+    "abstract": "Though algorithms promise many benefits including efficiency, objectivity and accuracy, they may also introduce or amplify biases. Here we study two well-known algorithms, namely PageRank and Who-to-Follow (WTF), and show to what extent their ranks produce inequality and inequity when applied to dir...",
+    "pages": "2012",
+    "volume": "12",
+    "year": "2026",
+    "url": "https://doi.org/10.1038/s41598-022-05434-1"
+  },
+  "EthnographerAlgorithmBlack2025": {
+    "type": "article",
+    "key": "EthnographerAlgorithmBlack2025",
+    "title": "The Ethnographer and the Algorithm: Beyond the Black Box",
+    "date": "2025-11-14",
+    "journal": "ResearchGate",
+    "doi": "10.1007/s11186-020-09411-3",
+    "abstract": "Download Citation \\textbar The ethnographer and the algorithm: beyond the black box \\textbar A common theme in social science studies of algorithms is that they are profoundly opaque and function as ``black boxes.'' Scholars have developed... \\textbar Find, read and cite all the research you need on...",
+    "year": "2025",
+    "url": "https://doi.org/10.1007/s11186-020-09411-3"
+  },
+  "fathallahArtificialIntelligenceOrchestration2025": {
+    "type": "misc",
+    "key": "fathallahArtificialIntelligenceOrchestration2025",
+    "title": "Artificial Intelligence",
+    "author": "Fathallah, Sarah",
+    "date": "2026-02-06",
+    "journal": "Tech Policy Press",
+    "abstract": "The tabulation of Palestinian deaths is used to enhance the lethality of the systems targeting them, writes Sarah Fathallah.",
+    "year": "2026"
+  },
+  "flensburgFollowDataStrategy2023": {
+    "type": "article",
+    "key": "flensburgFollowDataStrategy2023",
+    "title": "Follow the Data",
+    "author": "Flensburg, Sofie and Lai, Signe Sophus",
+    "date": "2026-03-06",
+    "journal": "Media and Communication",
+    "abstract": "Sofie Flensburg, Signe Sophus Lai",
+    "pages": "319--329",
+    "volume": "11",
+    "year": "2026"
+  },
+  "fowlerColumnSeeChatGPTs2026": {
+    "type": "misc",
+    "key": "fowlerColumnSeeChatGPTs2026",
+    "title": "Column \\textbar See ChatGPT",
+    "author": "Fowler, Geoffrey A. and Schaul, Kevin",
+    "date": "2026-02-13",
+    "journal": "The Washington Post",
+    "abstract": "Researchers uncovered hidden biases in ChatGPT's assessment of people from different places. See how the chatbot ranked your city, state or country.",
+    "year": "2026"
+  },
+  "halperAnalysisSupersizedData2025": {
+    "type": "misc",
+    "key": "halperAnalysisSupersizedData2025",
+    "title": "Analysis \\textbar Supersized",
+    "author": "Halper, Evan and min",
+    "date": "2026-03-06",
+    "journal": "The Washington Post",
+    "abstract": "These AI campuses consume more power than major U.S. cities. Their footprints are measured in miles, not feet.",
+    "year": "2026"
+  },
+  "hartzogHowAIDestroys2025": {
+    "type": "misc",
+    "key": "hartzogHowAIDestroys2025",
+    "title": "How AI Destroys Institutions",
+    "author": "Hartzog, Woodrow and Silbey, Jessica M.",
+    "date": "2026-02-20",
+    "publisher": "Social Science Research Network",
+    "abstract": "Civic institutions---the rule of law, universities, and a free press---are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability...",
+    "year": "2026"
+  },
+  "institute1AITech2024": {
+    "type": "misc",
+    "key": "institute1AITech2024",
+    "title": "1. AI",
+    "author": "Institute, AI Now",
+    "date": "2026-03-06",
+    "journal": "AI Now Institute",
+    "abstract": "DOWNLOAD FULL PDF As a category, ``tech'' emerged in its current form in the mid-1980s, relying on the conflation of economic and national security made tangible in the form of high-tech products like semiconductors. As an industry, tech has since its inception been marked by governmental interventi...",
+    "year": "2026"
+  },
+  "instituteAlgorithmicManagementRestraining2023": {
+    "type": "misc",
+    "key": "instituteAlgorithmicManagementRestraining2023",
+    "title": "Algorithmic Management",
+    "author": "Institute, AI Now",
+    "date": "2026-02-06",
+    "journal": "AI Now Institute",
+    "abstract": "Worker data rights are a starting point, but to address workplace surveillance we'll need bright line rules.",
+    "year": "2026"
+  },
+  "instituteArtificialPower20252025": {
+    "type": "misc",
+    "key": "instituteArtificialPower20252025",
+    "title": "Artificial Power",
+    "author": "Institute, AI Now",
+    "date": "2026-02-06",
+    "journal": "AI Now Institute",
+    "abstract": "In the aftermath of the ``AI boom,'' this report examines how the push to integrate AI products everywhere grants AI companies - and the tech oligarchs that run them - power that goes far beyond their deep pockets.",
+    "year": "2026"
+  },
+  "instituteClimateJusticeLabor2023": {
+    "type": "misc",
+    "key": "instituteClimateJusticeLabor2023",
+    "title": "Climate Justice",
+    "author": "Institute, AI Now",
+    "date": "2026-03-06",
+    "journal": "AI Now Institute",
+    "abstract": "Tamara Kneese, Data \\& Society Research Institute Download full report here. Introduction In the second half of 2023, generative AI is dominating headlines. Policymakers, technologists, and activists are all grappling with its potential implications for communities and the planet. Integrating LLMs (...",
+    "year": "2026"
+  },
+  "InstituteNetworkCultures2026": {
+    "type": "misc",
+    "key": "InstituteNetworkCultures2026",
+    "title": "Institute of Network Cultures",
+    "date": "2026-01-28",
+    "year": "2026"
+  },
+  "iraniPostcolonialComputingLens2010": {
+    "type": "inproceedings",
+    "key": "iraniPostcolonialComputingLens2010",
+    "title": "Postcolonial computing: A lens on design and development",
+    "author": "Irani, Lilly and Vertesi, Janet and Dourish, Paul and Philip, Kavita and Grinter, Rebecca E.",
+    "date": "2025-11-14",
+    "booktitle": "CHI 2010 - The 28th Annual CHI Conference on Human Factors in Computing Systems, Conference Proceedings",
+    "doi": "10.1145/1753326.1753522",
+    "pages": "1311--1320",
+    "year": "2025",
+    "url": "https://doi.org/10.1145/1753326.1753522"
+  },
+  "katzArtificialWhitenessColumbia2020": {
+    "type": "misc",
+    "key": "katzArtificialWhitenessColumbia2020",
+    "title": "Artificial Whiteness",
+    "author": "Katz, Yarden",
+    "date": "2025-10-30",
+    "year": "2025"
+  },
+  "koebler*AISuperchargingWar2025": {
+    "type": "misc",
+    "key": "koebler*AISuperchargingWar2025",
+    "title": "AI Is Supercharging",
+    "author": "Koebler $\\cdot$",
+    "date": "2026-02-06",
+    "journal": "404 Media",
+    "abstract": "\"Fascism and AI, whether or not they have the same goals, they sure are working to accelerate one another.",
+    "year": "2026"
+  },
+  "kupferLanguageColonialityNonDominant2022": {
+    "type": "misc",
+    "key": "kupferLanguageColonialityNonDominant2022",
+    "title": "Language and Coloniality",
+    "author": "Kupfer, Meital and Muyumba, Jason",
+    "publisher": "Pollicy"
+  },
+  "kwetDigitalColonialismInfrastructureasDebt2022": {
+    "type": "misc",
+    "key": "kwetDigitalColonialismInfrastructureasDebt2022",
+    "title": "Digital Colonialism",
+    "author": "Kwet, Michael",
+    "date": "2025-10-08",
+    "publisher": "Social Science Research Network",
+    "abstract": "This Article takes a look at the issue of digital colonialism in South Africa. First, it provides a snapshot of the global situation, characterized by the dominance of US empire. Second, it provides a snapshot of digital colonialism in South Africa. This includes a breakdown of how foreign corporati...",
+    "year": "2025"
+  },
+  "kwetDigitalColonialismUS2019": {
+    "type": "article",
+    "key": "kwetDigitalColonialismUS2019",
+    "title": "Digital Colonialism: US",
+    "author": "Kwet, Michael",
+    "date": "2025-10-30",
+    "journal": "Race \\& Class",
+    "publisher": "SAGE Publications Ltd",
+    "doi": "10.1177/0306396818823172",
+    "abstract": "This article proposes a conceptual framework of how the United States is reinventing colonialism in the Global South through the domination of digital technology. Using South Africa as a case study, it argues that US multinationals exercise imperial control at the architecture level of the digital e...",
+    "pages": "3--26",
+    "volume": "60",
+    "year": "2025",
+    "url": "https://doi.org/10.1177/0306396818823172"
+  },
+  "kwetDigitalTechDeal2022": {
+    "type": "article",
+    "key": "kwetDigitalTechDeal2022",
+    "title": "The Digital Tech Deal",
+    "author": "Kwet, Michael",
+    "date": "2025-10-30",
+    "journal": "Race \\& Class",
+    "publisher": "SAGE Publications Ltd",
+    "doi": "10.1177/03063968211064478",
+    "abstract": "The twenty-first century global economy is largely driven by Big Tech and, more broadly, digital capitalism. This is a global phenomenon, with US power at the centre preying on global markets through the process of digital colonialism. Mainstream antidotes to the ills of Big Tech and digital capital...",
+    "pages": "63--84",
+    "volume": "63",
+    "year": "2025",
+    "url": "https://doi.org/10.1177/03063968211064478"
+  },
+  "kwetSocialMediaSocialism2020": {
+    "type": "misc",
+    "key": "kwetSocialMediaSocialism2020",
+    "title": "Social Media Socialism",
+    "author": "Kwet, Michael",
+    "date": "2025-10-30",
+    "publisher": "Social Science Research Network",
+    "doi": "10.2139/ssrn.3695356",
+    "abstract": "Recent proposals by the neo-Brandeisian School of antitrust seek to ameliorate harms to society created by social media monopolies. While this initiative sounds great on paper, their solutions are inadequate, as they leave the proprietary, profit-seeking structure of social media networking intact. ...",
+    "year": "2025",
+    "url": "https://doi.org/10.2139/ssrn.3695356"
+  },
+  "lang-ritterGlobalGriddedPopulation2025": {
+    "type": "article",
+    "key": "lang-ritterGlobalGriddedPopulation2025",
+    "title": "Global Gridded Population Datasets Systematically Underrepresent Rural Population",
+    "author": "L\\'ang-Ritter",
+    "date": "2026-02-20",
+    "journal": "Nature Communications",
+    "publisher": "Nature Publishing Group",
+    "doi": "10.1038/s41467-025-56906-7",
+    "abstract": "Numerous initiatives towards sustainable development rely on global gridded population data. Such data have been calibrated primarily for urban environments, but their accuracy in the rural domain remains largely unexplored. This study systematically validates global gridded population datasets in r...",
+    "pages": "2170",
+    "volume": "16",
+    "year": "2026",
+    "url": "https://doi.org/10.1038/s41467-025-56906-7"
+  },
+  "loUniversityVirginiaArchival2026": {
+    "type": "misc",
+    "key": "loUniversityVirginiaArchival2026",
+    "title": "The University",
+    "author": "Lo, Leo",
+    "date": "2026-02-16",
+    "publisher": "University of Virginia",
+    "abstract": "Libra Open Content: The University of Virginia Archival AI Protocol \\textbar Authors: Leo Lo The University of Virginia Archival AI Protocol (UVA AAIP) establishes a",
+    "year": "2026"
+  },
+  "MakingSoftwareHow": {
+    "type": "misc",
+    "key": "MakingSoftwareHow",
+    "title": "Making Software",
+    "date": "2026-02-13",
+    "abstract": "Invariably, it involves trying to trap electrons in increasingly complicated ways.",
+    "year": "2026"
+  },
+  "mascoBadWeatherPlanetary2010": {
+    "type": "article",
+    "key": "mascoBadWeatherPlanetary2010",
+    "title": "Bad Weather",
+    "author": "Masco, Joseph",
+    "date": "2025-12-01",
+    "journal": "Social Studies of Science",
+    "publisher": "SAGE Publications Ltd",
+    "doi": "10.1177/0306312709341598",
+    "abstract": "How, and when, does it become possible to conceptualize a truly planetary crisis? The Cold War nuclear arms race installed one powerful concept of planetary crisis in American culture. The science enabling the US nuclear arsenal, however, also produced unintended byproducts: notably, a radical new i...",
+    "pages": "7--40",
+    "volume": "40",
+    "year": "2025",
+    "url": "https://doi.org/10.1177/0306312709341598"
+  },
+  "mcintyreGigWorkersAfrica2026": {
+    "type": "misc",
+    "key": "mcintyreGigWorkersAfrica2026",
+    "title": "Gig Workers in Africa",
+    "author": "McIntyre, Niamh and Okoth, Edwin and Wilson, Cam",
+    "date": "2026-02-23",
+    "journal": "Rest of World",
+    "abstract": "Data labelers for the company Appen say they have little insight about how their work is used.",
+    "year": "2026"
+  },
+  "meyerPlatformRealismAI2025": {
+    "type": "article",
+    "key": "meyerPlatformRealismAI2025",
+    "title": "``Platform Realism",
+    "author": "Meyer, Roland",
+    "year": "2025/Feb/26",
+    "date": "2026-02-20",
+    "journal": "Transbordeur. Photographie histoire soci\\'et\\'e",
+    "publisher": "Association Transbordeur, \\'Editions Macula",
+    "doi": "10.4000/13dwq",
+    "abstract": "With each update, AI image-synthesis models such as DALL-E and Midjourney promise more ``realistic'' representations. However, as the essay shows, the supposed ``reality'' they represent is not only heavily biased toward white, Western, male, middle-class aesthetic values and ideological preferences...",
+    "url": "https://doi.org/10.4000/13dwq"
+  },
+  "nadlerWeaponizingDigitalInfluence2018": {
+    "type": "misc",
+    "key": "nadlerWeaponizingDigitalInfluence2018",
+    "title": "Weaponizing the Digital Influence Machine",
+    "author": "Nadler, Anthony and Donovan, Joan",
+    "date": "2026-02-06",
+    "journal": "Data \\& Society",
+    "publisher": "Data \\& Society Research Institute",
+    "abstract": "Weaponizing the Digital Influence Machine: The Political Perils of Online Ad Tech identifies the technologies, conditions, and tactics that enable today's digital advertising infrastructure to be weaponized by political and anti-democratic actors.",
+    "year": "2026"
+  },
+  "NewMilitaryIndustry2025": {
+    "type": "misc",
+    "key": "NewMilitaryIndustry2025",
+    "title": "The New Military Industry Complex",
+    "date": "2026-02-06",
+    "journal": "Tech Won't Save Us",
+    "year": "2026"
+  },
+  "oduro404JobNot": {
+    "type": "misc",
+    "key": "oduro404JobNot",
+    "title": "(404) Job Not Found",
+    "author": "Oduro, Serena and Akanegbu, Anuli",
+    "date": "2026-02-13",
+    "journal": "Data \\& Society",
+    "abstract": "Anuli Akanegbu interrogates what it means to be perceived as ``AI literate'' in today's labor market, and how perceptions of skill are shaping the career outcomes of Black workers who are already navigating a wide range of inequities.",
+    "year": "2026"
+  },
+  "pakzadDevelopersChooseWisely2020": {
+    "type": "misc",
+    "key": "pakzadDevelopersChooseWisely2020",
+    "title": "Developers, Choose Wisely",
+    "author": "Pakzad, Roya",
+    "date": "2026-03-05",
+    "journal": "Humane AI",
+    "abstract": "Disclaimer: I am an independent researcher @Taraaz with no affiliation with any of the companies mentioned below.",
+    "year": "2026"
+  },
+  "pakzadDontTrustSalt2026": {
+    "type": "misc",
+    "key": "pakzadDontTrustSalt2026",
+    "title": "Don't Trust",
+    "author": "Pakzad, Roya",
+    "date": "2026-03-05",
+    "journal": "Humane AI",
+    "abstract": "How AI summaries can be steered: bilingual prompts, hidden policies, and why multilingual LLM guardrails fail in human rights contexts.",
+    "year": "2026"
+  },
+  "pasternackBoomingMilitarySpending2025": {
+    "type": "misc",
+    "key": "pasternackBoomingMilitarySpending2025",
+    "title": "Booming Military Spending",
+    "author": "Pasternack, Tina M. Park, Alex, Brian J. Chen",
+    "date": "2026-02-06",
+    "journal": "Tech Policy Press",
+    "abstract": "The imperative to win a global AI race is supercharging the tech industry's influence, write Brian J. Chen, Tina M. Park, and Alex Pasternack.",
+    "year": "2026"
+  },
+  "prol32AICant2026": {
+    "type": "misc",
+    "key": "prol32AICant2026",
+    "title": "\\#32 --- AI",
+    "author": "Prol, Daniel",
+    "date": "2026-02-13",
+    "journal": "Computing Education Things",
+    "abstract": "The hidden power of human values",
+    "year": "2026"
+  },
+  "shenHowAIImpacts2026": {
+    "type": "misc",
+    "key": "shenHowAIImpacts2026",
+    "title": "How AI Impacts Skill Formation",
+    "author": "Shen, Judy Hanwen and Tamkin, Alex",
+    "date": "2026-02-26",
+    "publisher": "arXiv",
+    "doi": "10.48550/arXiv.2601.20245",
+    "abstract": "AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may c...",
+    "year": "2026",
+    "url": "https://doi.org/10.48550/arXiv.2601.20245"
+  },
+  "shojaeeIllusionThinkingUnderstanding2025": {
+    "type": "misc",
+    "key": "shojaeeIllusionThinkingUnderstanding2025",
+    "title": "The Illusion",
+    "author": "Shojaee, Parshin and Mirzadeh, Iman and Alizadeh, Keivan and Horton, Maxwell and Bengio, Samy and Farajtabar, Mehrdad",
+    "date": "2026-02-23",
+    "publisher": "arXiv",
+    "doi": "10.48550/arXiv.2506.06941",
+    "abstract": "Recent generations of language models have introduced Large Reasoning Models (LRMs) that generate detailed thinking processes before providing answers. While these models demonstrate improved performance on reasoning benchmarks, their fundamental capabilities, scaling properties, and limitations rem...",
+    "year": "2026",
+    "url": "https://doi.org/10.48550/arXiv.2506.06941"
+  },
+  "starEthnographyInfrastructure1999": {
+    "type": "article",
+    "key": "starEthnographyInfrastructure1999",
+    "title": "The Ethnography of Infrastructure",
+    "author": "Star, Susan Leigh",
+    "journal": "American Behavioral Scientist",
+    "pages": "377--391",
+    "volume": "43"
+  },
+  "stoplapdspyingAlgorithmicEcologyAbolitionist2020": {
+    "type": "misc",
+    "key": "stoplapdspyingAlgorithmicEcologyAbolitionist2020",
+    "title": "The Algorithmic Ecology",
+    "author": "stoplapdspying",
+    "date": "2026-03-19",
+    "journal": "Medium",
+    "abstract": "By the Stop LAPD Spying Coalition and Free Radicals",
+    "year": "2026"
+  },
+  "tangAdsThatTalk2025": {
+    "type": "misc",
+    "key": "tangAdsThatTalk2025",
+    "title": "Ads That Talk Back",
+    "author": "Tang, Brian Jay and Sun, Kaiwen and Curran, Noah T. and Schaub, Florian and Shin, Kang G.",
+    "date": "2026-03-05",
+    "publisher": "arXiv",
+    "doi": "10.48550/arXiv.2409.15436",
+    "abstract": "Recent advances in large language models (LLMs) have enabled the creation of highly effective chatbots. However, the compute costs of widely deploying LLMs have raised questions about profitability. Companies have proposed exploring ad-based revenue streams for monetizing LLMs, which could serve as ...",
+    "year": "2026",
+    "url": "https://doi.org/10.48550/arXiv.2409.15436"
+  },
+  "techBitsMachineZine2024": {
+    "type": "misc",
+    "key": "techBitsMachineZine2024",
+    "title": "Bits in the Machine",
+    "author": "in Tech, Collective Action and Institute, \\relax DAIR and School, Collective Action and Society, Data \\& and Society, DAIR Institute, Collective Action School and Data \\&, Collective Action in Tech",
+    "date": "2026-04-02",
+    "journal": "Collective Action in Tech",
+    "abstract": "A Time Capsule of Worker's Stories in the Age of Generative AI",
+    "year": "2026"
+  },
+  "techCollectiveActionTech": {
+    "type": "misc",
+    "key": "techCollectiveActionTech",
+    "title": "Collective Action",
+    "author": "in Tech, Collective Action",
+    "date": "2026-04-02",
+    "journal": "Collective Action in Tech",
+    "abstract": "Contribute to our archive. This project attempts to document all collective action from workers in the tech industry. If you are a journalist or academic referencing this dataset, please include a link to the archive in your published piece and cite the project appropriately. Please share how this a...",
+    "year": "2026"
+  },
+  "UnderseaNetwork": {
+    "type": "misc",
+    "key": "UnderseaNetwork",
+    "title": "The Undersea Network",
+    "date": "2026-03-06",
+    "year": "2026"
+  },
+  "utopiaWhyTechWorkers2026": {
+    "type": "misc",
+    "key": "utopiaWhyTechWorkers2026",
+    "title": "Why Tech Workers Coalition",
+    "author": "Utopia, Conjure",
+    "date": "2026-01-28",
+    "journal": "Conjure Utopia",
+    "abstract": "If you follow me, you might already know Tech Workers Coalition (TWC). For everybody else, TWC is an international organization that supp...",
+    "year": "2026"
+  },
+  "warzelHeresHowAI2025": {
+    "type": "misc",
+    "key": "warzelHeresHowAI2025",
+    "title": "Here's How",
+    "author": "Warzel, Charlie, Matteo Wong",
+    "date": "2026-02-13",
+    "journal": "The Atlantic",
+    "abstract": "The U.S. is becoming an Nvidia-state.",
+    "year": "2026"
+  },
+  "YourComputerFire": {
+    "type": "book",
+    "key": "YourComputerFire",
+    "title": "Your Computer Is",
+    "date": "2026-03-06",
+    "abstract": "Techno-utopianism is dead: Now is the time to pay attention to the inequality, marginalization, and biases woven into our technological systems.This book s",
+    "year": "2026"
+  },
+  "adilazuardaMeasuringModelingCulture2024": {
+    "type": "misc",
+    "key": "adilazuardaMeasuringModelingCulture2024",
+    "title": "Towards Measuring",
+    "author": "Adilazuarda, Muhammad Farid and Mukherjee, Sagnik and Lavania, Pradhyumna and Singh, Siddhant and Aji, Alham Fikri and O'Neill, Jacki and Modi, Ashutosh and Choudhury, Monojit",
+    "date": "2025-10-10",
+    "publisher": "arXiv",
+    "doi": "10.48550/arXiv.2403.15412",
+    "abstract": "We present a survey of more than 90 recent papers that aim to study cultural representation and inclusion in large language models (LLMs). We observe that none of the studies explicitly define \"culture, which is a complex, multifaceted concept; instead, they probe the models on some specially design...",
+    "year": "2025",
+    "url": "https://doi.org/10.48550/arXiv.2403.15412"
+  },
+  "ahmedEnglishDominanceDigital2025": {
+    "type": "article",
+    "key": "ahmedEnglishDominanceDigital2025",
+    "title": "English Dominance",
+    "author": "Ahmed, Makhlouf and Makhlouf, Abdelkader and May, Amel",
+    "abstract": "The increased prominence of the English language in the administration of the public sphere, higher education, and digital governance is likely to have significant implications for strategic planning and decision-making in the public sector. By ensuring a common platform for the formulation of trans...",
+    "pages": "311--340",
+    "volume": "8"
+  },
+  "alloucheReClosingIssue2003": {
+    "type": "misc",
+    "key": "alloucheReClosingIssue2003",
+    "title": "Re: Closing",
+    "author": "Allouche, Matitiahu"
+  },
+  "anderson7DigitalVitality2023": {
+    "type": "incollection",
+    "key": "anderson7DigitalVitality2023",
+    "title": "7. Digital Vitality",
+    "author": "Anderson, Deborah",
+    "date": "2025-10-08",
+    "booktitle": "Global Language Justice",
+    "publisher": "Columbia University Press",
+    "pages": "220--243",
+    "year": "2025"
+  },
+  "andersonScriptEncodingInitiative2004": {
+    "type": "article",
+    "key": "andersonScriptEncodingInitiative2004",
+    "title": "The Script Encoding Initiative",
+    "author": "Anderson, Deborah",
+    "journal": "SIGNA",
+    "pages": "1--12",
+    "volume": "6"
+  },
+  "androutsopoulosIntroductionSociolinguisticsComputermediated2006": {
+    "type": "article",
+    "key": "androutsopoulosIntroductionSociolinguisticsComputermediated2006",
+    "title": "Introduction: Sociolinguistics",
+    "author": "Androutsopoulos, Jannis",
+    "journal": "Journal of Sociolinguistics",
+    "pages": "419--438",
+    "volume": "10"
+  },
+  "bartleyInstitutionalEmergenceEra2007": {
+    "type": "article",
+    "key": "bartleyInstitutionalEmergenceEra2007",
+    "title": "Institutional Emergence in an Era of Globalization: The",
+    "author": "Bartley, Tim",
+    "journal": "American Journal of Sociology",
+    "pages": "297--351",
+    "volume": "113"
+  },
+  "baumanGlobalizationHumanConsequences1998": {
+    "type": "book",
+    "key": "baumanGlobalizationHumanConsequences1998",
+    "title": "Globalization: The Human Consequences",
+    "author": "Bauman, Zygmunt",
+    "publisher": "Polity"
+  },
+  "BetterFeedsAlgorithms2025": {
+    "type": "misc",
+    "key": "BetterFeedsAlgorithms2025",
+    "title": "Better Feeds",
+    "date": "2026-02-06",
+    "journal": "Knight-Georgetown Institute",
+    "year": "2026"
+  },
+  "blommaertSociolinguisticsGlobalization2010": {
+    "type": "book",
+    "key": "blommaertSociolinguisticsGlobalization2010",
+    "title": "The Sociolinguistics",
+    "author": "Blommaert, Jan",
+    "publisher": "Cambridge University Press"
+  },
+  "bowkerSortingThingsOut1999": {
+    "type": "book",
+    "key": "bowkerSortingThingsOut1999",
+    "title": "Sorting Things Out",
+    "author": "Bowker, Geoffrey C. and Star, Susan Leigh",
+    "publisher": "MIT Press"
+  },
+  "boydTakenOutContext": {
+    "type": "article",
+    "key": "boydTakenOutContext",
+    "title": "Taken Out",
+    "author": "Boyd, Danah",
+    "journal": "University of California, Berkeley"
+  },
+  "brenzingerLanguageDeathFactual1992": {
+    "type": "book",
+    "key": "brenzingerLanguageDeathFactual1992",
+    "title": "Language Death",
+    "author": "Brenzinger, Matthias",
+    "publisher": "Mouton de Gruyter"
+  },
+  "callonSocietyMakingStudy1987": {
+    "type": "incollection",
+    "key": "callonSocietyMakingStudy1987",
+    "title": "Society in the Making",
+    "author": "Callon, Michel",
+    "booktitle": "The Social Construction",
+    "publisher": "MIT Press",
+    "pages": "83--103"
+  },
+  "CartographyGenerativeAI": {
+    "type": "misc",
+    "key": "CartographyGenerativeAI",
+    "title": "Cartography of Generative AI",
+    "date": "2025-10-14",
+    "year": "2025"
+  },
+  "celkoAlphabetAchievementWill2003": {
+    "type": "article",
+    "key": "celkoAlphabetAchievementWill2003",
+    "title": "The Alphabet Achievement: Will Unicode",
+    "author": "Celko, Joe",
+    "journal": "Intelligent Enterprise",
+    "pages": "48"
+  },
+  "cerciHowDesignResearchers2021": {
+    "type": "article",
+    "key": "cerciHowDesignResearchers2021",
+    "title": "How Design Researchers Interpret Probes",
+    "author": "\\c Cer\\c ci, Sena and Cecchinato, Marta"
+  },
+  "chanCodingFreeSoftware2004": {
+    "type": "article",
+    "key": "chanCodingFreeSoftware2004",
+    "title": "Coding Free Software",
+    "author": "Chan, Anita",
+    "date": "2026-03-06",
+    "journal": "Anthropological Quarterly",
+    "publisher": "The George Washington University Institute for Ethnographic Research",
+    "pages": "531--545",
+    "volume": "77",
+    "year": "2026"
+  },
+  "chinesedomainnameconsortiumProposalInternationalizingCcTLD2005": {
+    "type": "misc",
+    "key": "chinesedomainnameconsortiumProposalInternationalizingCcTLD2005",
+    "title": "The Proposal for Internationalizing ccTLD",
+    "author": "Chinese Domain Name Consortium"
+  },
+  "CleansingPersonalArchives": {
+    "type": "misc",
+    "key": "CleansingPersonalArchives",
+    "title": "Cleansing Personal Archives",
+    "date": "2025-10-08",
+    "abstract": "Elaheh on the erasure of digital memory in the Jina uprising.",
+    "year": "2025"
+  },
+  "cockburnGenderTechnologyMaking1993": {
+    "type": "book",
+    "key": "cockburnGenderTechnologyMaking1993",
+    "title": "Gender and Technology",
+    "author": "Cockburn, Cynthia and Ormrod, Susan",
+    "publisher": "Sage"
+  },
+  "ConstructionMultilingualInternet": {
+    "type": "misc",
+    "key": "ConstructionMultilingualInternet",
+    "title": "The Construction",
+    "date": "2025-10-08",
+    "year": "2025"
+  },
+  "costanza-chockDesignJusticeCommunityLed2020": {
+    "type": "book",
+    "key": "costanza-chockDesignJusticeCommunityLed2020",
+    "title": "Design Justice",
+    "author": "Costanza-Chock",
+    "date": "2025-12-01",
+    "abstract": "An exploration of how design might be led by marginalized communities, dismantle structural inequality, and advance collective liberation and ecological su",
+    "year": "2025"
+  },
+  "crystalEnglishGlobalLanguage1997": {
+    "type": "book",
+    "key": "crystalEnglishGlobalLanguage1997",
+    "title": "English as a Global Language",
+    "author": "Crystal, David",
+    "publisher": "Cambridge University Press"
+  },
+  "crystalLanguageInternet2001": {
+    "type": "book",
+    "key": "crystalLanguageInternet2001",
+    "title": "Language and the Internet",
+    "author": "Crystal, David",
+    "publisher": "Cambridge University Press"
+  },
+  "daganLogicalVisualPractical": {
+    "type": "misc",
+    "key": "daganLogicalVisualPractical",
+    "title": "Logical or Visual? A",
+    "author": "Dagan, Nir"
+  },
+  "danetIntroductionMultilingualInternet2003": {
+    "type": "article",
+    "key": "danetIntroductionMultilingualInternet2003",
+    "title": "Introduction: The",
+    "author": "Danet, Brenda and Herring, Susan C.",
+    "journal": "Journal of Computer-Mediated Communication",
+    "volume": "9"
+  },
+  "danielFieldGuideSemantic2026": {
+    "type": "misc",
+    "key": "danielFieldGuideSemantic2026",
+    "title": "A Field Guide",
+    "author": "Daniel, Jennifer",
+    "date": "2026-02-13",
+    "journal": "Did Someone Say Emoji?",
+    "abstract": "I \ud83e\udd66 You.",
+    "year": "2026"
+  },
+  "deswaanEndangeredLanguagesSociolinguistics2004": {
+    "type": "article",
+    "key": "deswaanEndangeredLanguagesSociolinguistics2004",
+    "title": "Endangered Languages, Sociolinguistics, and Linguistic Sentimentalism",
+    "author": "de Swaan",
+    "journal": "European Review",
+    "pages": "567--580",
+    "volume": "12"
+  },
+  "disalvoAdversarialDesign2015": {
+    "type": "book",
+    "key": "disalvoAdversarialDesign2015",
+    "title": "Adversarial Design",
+    "author": "DiSalvo, Carl",
+    "publisher": "MIT Press",
+    "abstract": "An exploration of the political qualities of technology design, as seen in projects that span art, computer science, and consumer products."
+  },
+  "dorEnglishizationImposedMultilingualism2004": {
+    "type": "article",
+    "key": "dorEnglishizationImposedMultilingualism2004",
+    "title": "From Englishization",
+    "author": "Dor, Daniel",
+    "journal": "Public Culture",
+    "pages": "97--118",
+    "volume": "16"
+  },
+  "editionEyewitnessTextureConflict2018": {
+    "type": "article",
+    "key": "editionEyewitnessTextureConflict2018",
+    "title": "The Eyewitness Texture",
+    "author": "Edition, Global Media Journal-German",
+    "date": "2025-11-12",
+    "doi": "10.22032/DBT.35001",
+    "abstract": "Our paper uses the events of the Arab Spring to examine amateur videos as a discourse of conflict produced by untrained and unpaid individuals, often at great personal risk, and which is taken up by, and incorporated into, news outcomes by",
+    "year": "2025",
+    "url": "https://doi.org/10.22032/DBT.35001"
+  },
+  "ellsworthThreeCheersUnicode1991": {
+    "type": "article",
+    "key": "ellsworthThreeCheersUnicode1991",
+    "title": "Three Cheers for Unicode",
+    "author": "Ellsworth, Lisa",
+    "journal": "InfoWorld",
+    "pages": "51"
+  },
+  "essComputermediatedColonizationCulturallyaware2006": {
+    "type": "incollection",
+    "key": "essComputermediatedColonizationCulturallyaware2006",
+    "title": "From Computer-Mediated Colonization to Culturally-Aware ICT",
+    "author": "Ess, Charles",
+    "booktitle": "Advances in Universal Web Design",
+    "publisher": "Idea Publishing",
+    "pages": "178--197"
+  },
+  "FacebookArabicLost": {
+    "type": "misc",
+    "key": "FacebookArabicLost",
+    "title": "On Facebook",
+    "date": "2025-12-05",
+    "journal": "AW",
+    "abstract": "As the Gaza war raged and tensions surged across the Middle East last May, Instagram briefly banned the hashtag \\#AlAqsa, a reference to the Al-Aqsa Mosque in Jerusalem's Old City, a flash point in the conflict.",
+    "year": "2025"
+  },
+  "FacebooksLanguageGaps2021": {
+    "type": "misc",
+    "key": "FacebooksLanguageGaps2021",
+    "title": "Facebook's Language Gaps Weaken Screening of Hate, Terrorism",
+    "date": "2025-12-05",
+    "journal": "AP News",
+    "abstract": "DUBAI, United Arab Emirates (AP) --- In Gaza and Syria, journalists and activists feel Facebook censors their speech, flagging inoffensive Arabic posts as terrorist content.",
+    "year": "2025"
+  },
+  "FacebookUsersDeploy": {
+    "type": "misc",
+    "key": "FacebookUsersDeploy",
+    "title": "Facebook Users Deploy Old Arabic",
+    "date": "2025-12-05",
+    "journal": "Middle East Eye",
+    "abstract": "Users came up with workaround after many accounts were~blocked or~restricted~after posting content about Gaza",
+    "year": "2025"
+  },
+  "geeReviewScriptDisplays2005": {
+    "type": "article",
+    "key": "geeReviewScriptDisplays2005",
+    "title": "Review of Script Displays of African",
+    "author": "Gee, Quincey",
+    "journal": "New Review of Hypermedia and Multimedia",
+    "pages": "247--255",
+    "volume": "11"
+  },
+  "geweckeIPadLanguageCapabilities2010": {
+    "type": "misc",
+    "key": "geweckeIPadLanguageCapabilities2010",
+    "title": "iPad",
+    "author": "Gewecke, Tom"
+  },
+  "gillamUnicodeDemystifiedPractical2003": {
+    "type": "book",
+    "key": "gillamUnicodeDemystifiedPractical2003",
+    "title": "Unicode Demystified",
+    "author": "Gillam, Richard",
+    "publisher": "Addison-Wesley"
+  },
+  "grahamReorderingPublicPrivate2002": {
+    "type": "article",
+    "key": "grahamReorderingPublicPrivate2002",
+    "title": "Reordering Public and Private in Iranian",
+    "author": "Graham, Mark and Khosravi, Shahram",
+    "journal": "Identities: Global Studies in Culture and Power",
+    "pages": "219--246",
+    "volume": "9"
+  },
+  "grahamUnicodePrimer2000": {
+    "type": "book",
+    "key": "grahamUnicodePrimer2000",
+    "title": "Unicode: A Primer",
+    "author": "Graham, Tony",
+    "publisher": "M\\&T Books"
+  },
+  "haibleUnicodeHOWTOV102001": {
+    "type": "misc",
+    "key": "haibleUnicodeHOWTOV102001",
+    "title": "The Unicode HOWTO",
+    "author": "Haible, Bruno"
+  },
+  "hannerzCulturalComplexity1992": {
+    "type": "book",
+    "key": "hannerzCulturalComplexity1992",
+    "title": "Cultural Complexity",
+    "author": "Hannerz, Ulf",
+    "publisher": "Columbia University Press"
+  },
+  "hardtEmpire2000": {
+    "type": "book",
+    "key": "hardtEmpire2000",
+    "title": "Empire",
+    "author": "Hardt, Michael and Negri, Antonio",
+    "publisher": "Harvard University Press"
+  },
+  "hoffmanBringingMoreWorld2000": {
+    "type": "article",
+    "key": "hoffmanBringingMoreWorld2000",
+    "title": "Bringing in More of the World with Unicode",
+    "author": "Hoffman, Paul",
+    "journal": "Network World",
+    "pages": "49",
+    "volume": "17"
+  },
+  "HongKongProtesters": {
+    "type": "misc",
+    "key": "HongKongProtesters",
+    "title": "Hong Kong",
+    "date": "2026-05-06",
+    "year": "2026"
+  },
+  "HongKongsProtesters2019": {
+    "type": "misc",
+    "key": "HongKongsProtesters2019",
+    "title": "Hong Kong",
+    "date": "2026-05-06",
+    "journal": "Quartz",
+    "abstract": "Airdrops have long been a useful tactic to get behind enemy lines.",
+    "year": "2026"
+  },
+  "johnstonUnicodePromisesInternational1991": {
+    "type": "article",
+    "key": "johnstonUnicodePromisesInternational1991",
+    "title": "Unicode Promises an International Character Set",
+    "author": "Johnston, Scott J.",
+    "journal": "InfoWorld",
+    "pages": "8"
+  },
+  "jonesChapter12Ethnography2016": {
+    "type": "incollection",
+    "key": "jonesChapter12Ethnography2016",
+    "title": "Chapter 12. The Ethnography",
+    "author": "Jones, Graham M. and Schieffelin, Bambi B.",
+    "date": "2025-11-16",
+    "booktitle": "eFieldnotes",
+    "publisher": "University of Pennsylvania Press",
+    "pages": "210--228",
+    "year": "2025"
+  },
+  "jordanLanguagesLeftKeeping2002": {
+    "type": "article",
+    "key": "jordanLanguagesLeftKeeping2002",
+    "title": "Languages Left behind: Keeping Taiwanese",
+    "author": "Jordan, David",
+    "journal": "Language Problems and Language Planning",
+    "pages": "111--127",
+    "volume": "26"
+  },
+  "kelly-holmesAnalysisLanguageRepertoires2004": {
+    "type": "article",
+    "key": "kelly-holmesAnalysisLanguageRepertoires2004",
+    "title": "An Analysis of the Language Repertoires of Students in Higher Education and Their Language Choices on the Internet",
+    "author": "Kelly-Holmes",
+    "journal": "International Journal on Multicultural Societies",
+    "pages": "52--75",
+    "volume": "6"
+  },
+  "klineUsersAgentsTechnological1996": {
+    "type": "article",
+    "key": "klineUsersAgentsTechnological1996",
+    "title": "Users as Agents of Technological Change: The",
+    "author": "Kline, Ronald and Pinch, Trevor",
+    "journal": "Technology and Culture",
+    "pages": "763--795",
+    "volume": "37"
+  },
+  "koutsogiannisGreeklishGreeknessTrends2003": {
+    "type": "article",
+    "key": "koutsogiannisGreeklishGreeknessTrends2003",
+    "title": "Greeklish and Greekness",
+    "author": "Koutsogiannis, Dimitris and Mitsikopoulou, Bessie",
+    "journal": "Journal of Computer-Mediated Communication",
+    "volume": "9"
+  },
+  "kwanUNICODEImplicationsTranslator1995": {
+    "type": "inproceedings",
+    "key": "kwanUNICODEImplicationsTranslator1995",
+    "title": "UNICODE",
+    "author": "Kwan, Peter",
+    "date": "2025-10-08",
+    "booktitle": "Proceedings of Translating",
+    "publisher": "Aslib",
+    "year": "2025"
+  },
+  "ladefogedAnotherViewEndangered1992": {
+    "type": "article",
+    "key": "ladefogedAnotherViewEndangered1992",
+    "title": "Another View of Endangered Languages",
+    "author": "Ladefoged, Peter",
+    "journal": "Language",
+    "pages": "809--811",
+    "volume": "68"
+  },
+  "LanguageColonialityNonDominant": {
+    "type": "misc",
+    "key": "LanguageColonialityNonDominant",
+    "title": "Language \\& Coloniality",
+    "date": "2025-10-08",
+    "journal": "Pollicy",
+    "abstract": "This white paper seeks to unpack the use of Indigenous or non-majority language in the existing digital landscape. This ties into ideas about digital colonialism (Kwett, 2022), wherein hegemonic, or dominant, languages are threatening and jeopardising the ability for local language speakers to expre...",
+    "year": "2025"
+  },
+  "latourWhereAreMissing1992": {
+    "type": "incollection",
+    "key": "latourWhereAreMissing1992",
+    "title": "Where Are the Missing Masses? The",
+    "author": "Latour, Bruno",
+    "booktitle": "Shaping Technology",
+    "publisher": "MIT Press",
+    "pages": "225--258"
+  },
+  "lawTechnologyHeterogeneousEngineering1987": {
+    "type": "incollection",
+    "key": "lawTechnologyHeterogeneousEngineering1987",
+    "title": "Technology and Heterogeneous Engineering: The",
+    "author": "Law, John",
+    "booktitle": "The Social Construction",
+    "publisher": "MIT Press",
+    "pages": "111--134"
+  },
+  "lithgowEyewitnessTextureConflict2018": {
+    "type": "article",
+    "key": "lithgowEyewitnessTextureConflict2018",
+    "title": "The Eyewitness Texture of Conflict: Contributions of Amateur Videos in News Coverage of the Arab Spring",
+    "author": "Lithgow, Michael and Martin, Mich\\`ele",
+    "date": "2025-11-12",
+    "journal": "Global Media Journal - German Edition",
+    "doi": "10.22032/dbt.35001",
+    "abstract": "Our paper uses the events of the Arab Spring to examine amateur videos as a discourse of conflict produced by untrained and unpaid individuals, often at great personal risk, and which is taken up by, and incorporated into, news outcomes by professional news networks. The different semiotic elements ...",
+    "volume": "8(2018)",
+    "year": "2025",
+    "url": "https://doi.org/10.22032/dbt.35001"
+  },
+  "LiuChuangBitcoin": {
+    "type": "misc",
+    "key": "LiuChuangBitcoin",
+    "title": "Liu Chuang",
+    "date": "2026-03-23",
+    "abstract": "Liu Chuang's video installation, Bitcoin Mining and Field Recordings of Ethnic Minorities presents an in-depth and speculative journey through technology,\\dots",
+    "year": "2026"
+  },
+  "martellSociologyGlobalization2010": {
+    "type": "book",
+    "key": "martellSociologyGlobalization2010",
+    "title": "The Sociology",
+    "author": "Martell, Luke",
+    "publisher": "Polity"
+  },
+  "mcmahonMoneyMarketsMicroelectronics2004": {
+    "type": "article",
+    "key": "mcmahonMoneyMarketsMicroelectronics2004",
+    "title": "Money, Markets and Microelectronics: Building",
+    "author": "McMahon, Paul",
+    "journal": "Prometheus",
+    "pages": "71--82",
+    "volume": "22"
+  },
+  "millerInternetEthnographicApproach2000": {
+    "type": "book",
+    "key": "millerInternetEthnographicApproach2000",
+    "title": "The Internet",
+    "author": "Miller, Daniel and Slater, Don",
+    "publisher": "Berg"
+  },
+  "misaControversyClosureTechnological1992": {
+    "type": "incollection",
+    "key": "misaControversyClosureTechnological1992",
+    "title": "Controversy and Closure in Technological Change: Constructing",
+    "author": "Misa, Thomas J.",
+    "booktitle": "Shaping Technology",
+    "publisher": "MIT Press",
+    "pages": "109--139"
+  },
+  "moghanizadehRoleSocialMedia2013": {
+    "type": "article",
+    "key": "moghanizadehRoleSocialMedia2013",
+    "title": "The Role of Social Media in Iran",
+    "author": "Moghanizadeh, Somayeh",
+    "date": "2025-10-12",
+    "abstract": "This research attempts to examine the role of social media in Iran's Green Movement. In particular, by using a socio psychological framework, explores how social media had been used as a tool to facilitate the process of mobilization at the time of pre-election campaign, post-election demonstrations...",
+    "year": "2025"
+  },
+  "mufweneColonizationGlobalizationPlight2002": {
+    "type": "article",
+    "key": "mufweneColonizationGlobalizationPlight2002",
+    "title": "Colonization, Globalization and the Plight of 'weak' Languages",
+    "author": "Mufwene, Salikoko S.",
+    "journal": "Journal of Linguistics",
+    "pages": "375--395",
+    "volume": "38"
+  },
+  "myersWillUnicodeKill1995": {
+    "type": "misc",
+    "key": "myersWillUnicodeKill1995",
+    "title": "Will Unicode Kill Japanese Kanji",
+    "author": "Myers, Steve"
+  },
+  "najafgholizadehIranianDiasporaSpotlight2021": {
+    "type": "misc",
+    "key": "najafgholizadehIranianDiasporaSpotlight2021",
+    "title": "Iranian Diaspora Spotlight",
+    "author": "Najafgholizadeh, Shahriyar",
+    "date": "2025-11-11",
+    "journal": "With a Trace: Documenting and Sharing the Experiences of the Iranian Diaspora",
+    "abstract": "Banner Photo credit:~Kendrick Brinson for The New York Times. By Naazley Boozari, Center Summer Intern~ For Iranians, few things are more important than the Persian language---also known as\\dots",
+    "year": "2025"
+  },
+  "nederveenpieterseGlobalizationHybridization1995": {
+    "type": "incollection",
+    "key": "nederveenpieterseGlobalizationHybridization1995",
+    "title": "Globalization as Hybridization",
+    "author": "Nederveen Pieterse, Jan",
+    "booktitle": "Global Modernities",
+    "publisher": "Sage",
+    "pages": "45--68"
+  },
+  "neuhauserImprovingVisibilityMinorities2023": {
+    "type": "article",
+    "key": "neuhauserImprovingVisibilityMinorities2023",
+    "title": "Improving the Visibility of Minorities through Network Growth Interventions",
+    "author": "Neuh\\\"auser, Leonie and Karimi, Fariba and Bachmann, Jan and Strohmaier, Markus and Schaub, Michael T.",
+    "date": "2026-03-10",
+    "journal": "Communications Physics",
+    "publisher": "Nature Publishing Group",
+    "doi": "10.1038/s42005-023-01218-9",
+    "abstract": "Improving the position of minority groups in networks through interventions is a challenge of high theoretical and societal importance. However, a systematic analysis of interventions that alter the network growth process is still missing. In this work, we propose a model to examine how network grow...",
+    "pages": "108",
+    "volume": "6",
+    "year": "2026",
+    "url": "https://doi.org/10.1038/s42005-023-01218-9"
+  },
+  "nicholsDigitalLibrariesMinority2005": {
+    "type": "article",
+    "key": "nicholsDigitalLibrariesMinority2005",
+    "title": "Digital Libraries and Minority Languages",
+    "author": "Nichols, David M. and Witten, Ian H. and Keegan, Te Taka and Bainbridge, David and Dewsnip, Mike",
+    "journal": "New Review of Hypermedia and Multimedia",
+    "pages": "139--155",
+    "volume": "11"
+  },
+  "pakzadGazingMotherTongue2021": {
+    "type": "misc",
+    "key": "pakzadGazingMotherTongue2021",
+    "title": "Gazing at the Mother Tongue",
+    "author": "Pakzad, Roya",
+    "date": "2026-03-05",
+    "journal": "Humane AI",
+    "abstract": "Analyzing Twitter's Image Cropping Algorithm on Bilingual Memes",
+    "year": "2026"
+  },
+  "pakzadOldAdvocacyNew2023": {
+    "type": "misc",
+    "key": "pakzadOldAdvocacyNew2023",
+    "title": "Old Advocacy",
+    "author": "Pakzad, Roya",
+    "date": "2026-03-05",
+    "journal": "Humane AI",
+    "abstract": "A post on the history of red teaming, the current state of red teaming generative AI systems, and a guide for better red teaming",
+    "year": "2026"
+  },
+  "palfreymanFunkyLanguageTeenzz2003": {
+    "type": "article",
+    "key": "palfreymanFunkyLanguageTeenzz2003",
+    "title": "\"A",
+    "author": "Palfreyman, David and al Khalil",
+    "journal": "Journal of Computer-Mediated Communication",
+    "volume": "9"
+  },
+  "paolilloLanguageDiversityInternet2005": {
+    "type": "incollection",
+    "key": "paolilloLanguageDiversityInternet2005",
+    "title": "Language Diversity on the Internet",
+    "author": "Paolillo, John",
+    "booktitle": "Measuring Linguistic Diversity",
+    "publisher": "UNESCO",
+    "pages": "43--89"
+  },
+  "paolilloLanguageDiversityInternet2005a": {
+    "type": "incollection",
+    "key": "paolilloLanguageDiversityInternet2005a",
+    "title": "Language Diversity on the Internet",
+    "author": "Paolillo, John",
+    "booktitle": "Measuring Linguistic Diversity",
+    "publisher": "UNESCO",
+    "pages": "42--89"
+  },
+  "parsonsBeulahLandCyberCymru2000": {
+    "type": "article",
+    "key": "parsonsBeulahLandCyberCymru2000",
+    "title": "From Beulah Land",
+    "author": "Parsons, W.",
+    "journal": "Contemporary Wales",
+    "pages": "1--26",
+    "volume": "13"
+  },
+  "PDFDesignCultural1999": {
+    "type": "article",
+    "key": "PDFDesignCultural1999",
+    "title": "(PDF",
+    "author": ", Gaver",
+    "date": "2025-11-14",
+    "journal": "ResearchGate",
+    "doi": "10.1145/291224.291235",
+    "abstract": "PDF \\textbar On Jan 1, 1999, William W. Gaver and others published Design: Cultural Probes \\textbar Find, read and cite all the research you need on ResearchGate",
+    "year": "2025",
+    "url": "https://doi.org/10.1145/291224.291235"
+  },
+  "PDFFuturesEveryday": {
+    "type": "misc",
+    "key": "PDFFuturesEveryday",
+    "title": "(PDF",
+    "date": "2025-12-01",
+    "journal": "ResearchGate",
+    "doi": "10.13140/RG.2.1.1840.0248",
+    "abstract": "PDF \\textbar The great existential challenges facing the human species can be traced, in part, to the fact that we have underdeveloped discursive practices for... \\textbar Find, read and cite all the research you need on ResearchGate",
+    "year": "2025",
+    "url": "https://doi.org/10.13140/RG.2.1.1840.0248"
+  },
+  "pennycookRethinkingOriginsLocalization2010": {
+    "type": "incollection",
+    "key": "pennycookRethinkingOriginsLocalization2010",
+    "title": "Rethinking Origins and Localization in Global Englishes",
+    "author": "Pennycook, Alastair",
+    "booktitle": "Contending with Globalization",
+    "publisher": "Multilingual Matters",
+    "pages": "196--210"
+  },
+  "phillipsonEnglishonlyEuropeChallenging2003": {
+    "type": "book",
+    "key": "phillipsonEnglishonlyEuropeChallenging2003",
+    "title": "English-Only Europe",
+    "author": "Phillipson, Robert",
+    "publisher": "Routledge"
+  },
+  "phillipsonLinguisticImperialism1992": {
+    "type": "book",
+    "key": "phillipsonLinguisticImperialism1992",
+    "title": "Linguistic Imperialism",
+    "author": "Phillipson, Robert",
+    "publisher": "Oxford University Press"
+  },
+  "pinchSocialConstructionFacts1987": {
+    "type": "article",
+    "key": "pinchSocialConstructionFacts1987",
+    "title": "The Social Construction of Facts and Artefacts: Or",
+    "author": "Pinch, Trevor J. and Bijker, Wiebe E.",
+    "journal": "Social Studies of Science",
+    "pages": "399--441",
+    "volume": "14"
+  },
+  "pollackCyberspaceFrontMulticultural1995": {
+    "type": "article",
+    "key": "pollackCyberspaceFrontMulticultural1995",
+    "title": "A Cyberspace Front in a Multicultural War",
+    "author": "Pollack, Andrew",
+    "journal": "The New York Times"
+  },
+  "pyattIPadUnicode2010": {
+    "type": "misc",
+    "key": "pyattIPadUnicode2010",
+    "title": "iPad",
+    "author": "Pyatt, Elizabeth"
+  },
+  "ReClosingIssue": {
+    "type": "misc",
+    "key": "ReClosingIssue",
+    "title": "Re: Closing",
+    "date": "2025-10-08",
+    "year": "2025"
+  },
+  "rikapCapitalismPowerInnovation2021": {
+    "type": "book",
+    "key": "rikapCapitalismPowerInnovation2021",
+    "title": "Capitalism, Power",
+    "author": "Rikap, Cecilia",
+    "journal": "Capitalism, Power and Innovation: Intellectual Monopoly Capitalism Uncovered",
+    "doi": "10.4324/9780429341489",
+    "abstract": "In contemporary global capitalism, the most powerful corporations are innovation or intellectual monopolies. The book's unique perspective focuses on how private ownership and control of knowledge and data have become a major source of rent and power. The author explains how at the one pole, these c...",
+    "url": "https://doi.org/10.4324/9780429341489"
+  },
+  "ritzerGlobalizationNothing2002": {
+    "type": "article",
+    "key": "ritzerGlobalizationNothing2002",
+    "title": "The Globalization",
+    "author": "Ritzer, George"
+  },
+  "ritzerMcDonaldizationSociety1993": {
+    "type": "book",
+    "key": "ritzerMcDonaldizationSociety1993",
+    "title": "The McDonaldization",
+    "author": "Ritzer, George",
+    "publisher": "Pine Forge Press"
+  },
+  "schillerCommunicationCulturalDomination1976": {
+    "type": "book",
+    "key": "schillerCommunicationCulturalDomination1976",
+    "title": "Communication and Cultural Domination",
+    "author": "Schiller, Herbert I.",
+    "publisher": "International Arts and Sciences Press"
+  },
+  "schofieldOvercomingLanguageBarrier1993": {
+    "type": "article",
+    "key": "schofieldOvercomingLanguageBarrier1993",
+    "title": "Overcoming the Language Barrier",
+    "author": "Schofield, Jack",
+    "journal": "The Guardian",
+    "pages": "19"
+  },
+  "shapardIslandsDatastreamLanguage1993": {
+    "type": "incollection",
+    "key": "shapardIslandsDatastreamLanguage1993",
+    "title": "Islands in the (Data)Stream: Language",
+    "author": "Shapard, Jeffrey",
+    "booktitle": "Global Networks",
+    "publisher": "MIT Press",
+    "pages": "255--270"
+  },
+  "skutnabb-kangasLinguicide2001": {
+    "type": "incollection",
+    "key": "skutnabb-kangasLinguicide2001",
+    "title": "Linguicide",
+    "author": "Skutnabb-Kangas",
+    "booktitle": "Concise Encyclopedia",
+    "publisher": "Elsevier Science"
+  },
+  "skutnabb-kangasLinguisticGenocideEducation2000": {
+    "type": "book",
+    "key": "skutnabb-kangasLinguisticGenocideEducation2000",
+    "title": "Linguistic Genocide",
+    "author": "Skutnabb-Kangas",
+    "publisher": "L. Erlbaum Associates"
+  },
+  "tomlinsonCulturalImperialism1991": {
+    "type": "book",
+    "key": "tomlinsonCulturalImperialism1991",
+    "title": "Cultural Imperialism",
+    "author": "Tomlinson, John",
+    "publisher": "Johns Hopkins University Press"
+  },
+  "unescoRecommendationConcerningPromotion2003": {
+    "type": "misc",
+    "key": "unescoRecommendationConcerningPromotion2003",
+    "title": "Recommendation Concerning the Promotion and Use of Multilingualism and Universal Access to Cyberspace",
+    "author": "UNESCO"
+  },
+  "unicodeconsortiumWhatUnicode2004": {
+    "type": "misc",
+    "key": "unicodeconsortiumWhatUnicode2004",
+    "title": "What Is Unicode",
+    "author": "Unicode Consortium"
+  },
+  "uominstitutefordatascience&aiAdvancesDataScience2020": {
+    "type": "misc",
+    "key": "uominstitutefordatascience&aiAdvancesDataScience2020",
+    "title": "Advances in Data Science Seminar",
+    "date": "2025-11-16",
+    "abstract": "Originally recorded 30th June 2020 as part of the Advances in Data Science seminar series http://www.datascience.manchester.ac....",
+    "year": "2025"
+  },
+  "urryComplexitiesGlobal2005": {
+    "type": "article",
+    "key": "urryComplexitiesGlobal2005",
+    "title": "The Complexities of the Global",
+    "author": "Urry, John",
+    "journal": "Theory, Culture \\& Society",
+    "pages": "235--254",
+    "volume": "22"
+  },
+  "vanvoorstKeyPointsEthnography2024": {
+    "type": "article",
+    "key": "vanvoorstKeyPointsEthnography2024",
+    "title": "Key Points for an Ethnography of AI",
+    "author": "van Voorst",
+    "date": "2025-10-18",
+    "journal": "Humanities and Social Sciences Communications",
+    "publisher": "Palgrave",
+    "doi": "10.1057/s41599-024-02854-4",
+    "abstract": "Recent years have seen an increase in calls for ethnography as a method to study Artificial Intelligence (AI). Scholars from diverse backgrounds have been encouraged to move beyond quantitative methods and embrace qualitative methods, particularly ethnography. As anthropologists of data and AI, we a...",
+    "pages": "1--5",
+    "volume": "11",
+    "year": "2025",
+    "url": "https://doi.org/10.1057/s41599-024-02854-4"
+  },
+  "wajcmanAddressingTechnologicalChange2002": {
+    "type": "article",
+    "key": "wajcmanAddressingTechnologicalChange2002",
+    "title": "Addressing Technological Change: The",
+    "author": "Wajcman, Judy",
+    "journal": "Current Sociology",
+    "pages": "347--363",
+    "volume": "50"
+  },
+  "warschauerLanguageChoiceOnline2002": {
+    "type": "article",
+    "key": "warschauerLanguageChoiceOnline2002",
+    "title": "Language Choice Online: Globalization",
+    "author": "Warschauer, Mark and el Said",
+    "journal": "Journal of Computer-Mediated Communication",
+    "volume": "7"
+  },
+  "watsonGoldenArchesEast1997": {
+    "type": "book",
+    "key": "watsonGoldenArchesEast1997",
+    "title": "Golden Arches East",
+    "publisher": "Stanford University Press"
+  },
+  "wrightIntroduction2004": {
+    "type": "article",
+    "key": "wrightIntroduction2004",
+    "title": "Introduction",
+    "author": "Wright, Sue",
+    "journal": "International Journal on Multicultural Societies",
+    "pages": "5--13",
+    "volume": "6"
+  },
+  "zhaoChineseCharacterModernisation2005": {
+    "type": "article",
+    "key": "zhaoChineseCharacterModernisation2005",
+    "title": "Chinese Character Modernisation in the Digital Era: A",
+    "author": "Zhao, Shouhui",
+    "journal": "Current Issues in Language Planning",
+    "pages": "315--378",
+    "volume": "6"
+  }
+}
