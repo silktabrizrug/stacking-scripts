@@ -463,7 +463,7 @@ export default function App() {
         })}
       </div>
 
-      <div style={{ position: 'fixed', bottom: '115px', left: 0, right: 0, zIndex: 100, fontSize: '0.6rem', letterSpacing: '0.12em', color: '#FF3DDF', textTransform: 'uppercase', textAlign: 'center', whiteSpace: 'nowrap' }}>
+      <div style={{ position: 'fixed', bottom: '115px', left: 0, right: 0, zIndex: 100, fontSize: '0.6rem', letterSpacing: '0.12em', color: '#aaa', textTransform: 'uppercase', textAlign: 'center', whiteSpace: 'nowrap' }}>
         Scroll back and forth to discover a path of connections between hardware → software → society
       </div>
 
