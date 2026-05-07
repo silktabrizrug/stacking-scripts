@@ -31,7 +31,7 @@ const ASCII_IMAGES = {
 }
 
 // Fallback image used until you replace each one
-const FALLBACK = "/ascii-art (26).png"
+const FALLBACK = "/stacking-scripts/ascii-fallback.png"
 
 function getImage(id) {
   return ASCII_IMAGES[id] || FALLBACK
