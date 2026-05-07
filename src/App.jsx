@@ -1,37 +1,37 @@
 import { useState, useEffect, useRef } from 'react'
 import refs from './references.json'
 
-// ASCII image map — drop your files into /public and update the filenames here
+const BASE = "/stacking-scripts"
+
 const ASCII_IMAGES = {
-  "1.0":  "/ascii/earth.png",
-  "2.0":  "/ascii/geology.png",
-  "3.0":  "/ascii/the-cloud.png",
-  "4.0":  "/ascii/subsea-cables.png",
-  "5.0":  "/ascii/data-centers.png",
-  "6.0":  "/ascii/data-colonialism.png",
-  "7.0":  "/ascii/ghost-work.png",
-  "8.0":  "/ascii/encoding.png",
-  "8.1":  "/ascii/workarounds.png",
-  "9.0":  "/ascii/training-data.png",
-  "9.1":  "/ascii/homogenization.png",
-  "9.2":  "/ascii/english-dominance.png",
-  "10.0": "/ascii/algorithmic-bias.png",
-  "10.1": "/ascii/safety-failures.png",
-  "11.0": "/ascii/moderation.png",
-  "11.1": "/ascii/design-injustice.png",
-  "12.0": "/ascii/facebook-myanmar.png",
-  "12.1": "/ascii/iran.png",
-  "12.2": "/ascii/twitter-cropping.png",
-  "12.3": "/ascii/next-billion-users.png",
-  "12.4": "/ascii/peru.png",
-  "12.5": "/ascii/facebook-arabic-gaza.png",
-  "12.6": "/ascii/old-arabic-font.png",
-  "12.7": "/ascii/arab-spring.png",
-  "12.8": "/ascii/hong-kong.png",
+  "1.0":  `${BASE}/ascii/earth.png`,
+  "2.0":  `${BASE}/ascii/geology.png`,
+  "3.0":  `${BASE}/ascii/the-cloud.png`,
+  "4.0":  `${BASE}/ascii/subsea-cables.png`,
+  "5.0":  `${BASE}/ascii/data-centers.png`,
+  "6.0":  `${BASE}/ascii/data-colonialism.png`,
+  "7.0":  `${BASE}/ascii/ghost-work.png`,
+  "8.0":  `${BASE}/ascii/encoding.png`,
+  "8.1":  `${BASE}/ascii/workarounds.png`,
+  "9.0":  `${BASE}/ascii/training-data.png`,
+  "9.1":  `${BASE}/ascii/homogenization.png`,
+  "9.2":  `${BASE}/ascii/english-dominance.png`,
+  "10.0": `${BASE}/ascii/algorithmic-bias.png`,
+  "10.1": `${BASE}/ascii/safety-failures.png`,
+  "11.0": `${BASE}/ascii/moderation.png`,
+  "11.1": `${BASE}/ascii/design-injustice.png`,
+  "12.0": `${BASE}/ascii/facebook-myanmar.png`,
+  "12.1": `${BASE}/ascii/iran.png`,
+  "12.2": `${BASE}/ascii/twitter-cropping.png`,
+  "12.3": `${BASE}/ascii/next-billion-users.png`,
+  "12.4": `${BASE}/ascii/peru.png`,
+  "12.5": `${BASE}/ascii/facebook-arabic-gaza.png`,
+  "12.6": `${BASE}/ascii/old-arabic-font.png`,
+  "12.7": `${BASE}/ascii/arab-spring.png`,
+  "12.8": `${BASE}/ascii/hong-kong.png`,
 }
 
-// Fallback image used until you replace each one
-const FALLBACK = "/stacking-scripts/ascii-fallback.png"
+const FALLBACK = `${BASE}/ascii-fallback.png`
 
 function getImage(id) {
   return ASCII_IMAGES[id] || FALLBACK
